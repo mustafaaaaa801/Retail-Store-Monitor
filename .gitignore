@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+env/
+venv/
+retail_venv/
+
+# VSCode
+.vscode/
+
+# Data / Models
+*.npy
+*.h5
+yolo/*.pt
